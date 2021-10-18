@@ -1,0 +1,24 @@
+{
+  "name": "react-native-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap style components for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffegu/react-native-bootstrap.git"
+  },
+  "keywords": [
+    "react",
+    "react-ative",
+    "react-native-bootstrap"
+  ],
+  "author": "Pran Pegu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffegu/react-native-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ffegu/react-native-bootstrap#readme"
+}
